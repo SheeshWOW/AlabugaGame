@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\CPlusFiles\AlabugaGame\Project1\Project1\main.cpp(11,33): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\CPlusFiles\AlabugaGame\Project1\Project1\main.cpp(12,39): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Project1.vcxproj -> D:\CPlusFiles\AlabugaGame\Project1\x64\Debug\Project1.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
